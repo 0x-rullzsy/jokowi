@@ -3,7 +3,7 @@
         {
             "name": "MT [OLD] Yahayuk V0.1",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json/mount_yahayuk_old.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Adelza",
@@ -28,7 +28,7 @@
         {
             "name": "MT Agora",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json/mount_agora.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Ajani",
