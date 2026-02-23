@@ -528,7 +528,7 @@
         {
             "name": "MT Tes",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json/mount_tes.json",
-            "locked": false
+            "locked": true
         }
     ]
 }
