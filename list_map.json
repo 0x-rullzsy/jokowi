@@ -524,11 +524,6 @@
             "name": "MT Yume (Sline)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json/mount_yume_sline.json",
             "locked": false
-        },
-        {
-            "name": "MT Tes",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json/mount_tes.json",
-            "locked": true
         }
     ]
 }
