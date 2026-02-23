@@ -28,7 +28,7 @@
         {
             "name": "MT Agora",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_agora.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Ajani",
