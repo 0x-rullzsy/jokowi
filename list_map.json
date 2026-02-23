@@ -529,6 +529,11 @@
             "name": "MT Koja",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_koja.json",
             "locked": false
+        },
+        {
+            "name": "MT Victoria",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_victoria.json",
+            "locked": false
         }
     ]
 }
