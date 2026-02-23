@@ -3,7 +3,7 @@
         {
             "name": "MT [OLD] Yahayuk V0.1",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json/mount_yahayuk_old.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Adelza",
