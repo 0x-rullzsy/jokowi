@@ -1,0 +1,559 @@
+{
+    "maps": [
+        {
+            "name": "Bella_001",
+            "url": "https://rullzsyhub.site/json/Bella_mount_papella.json",
+            "locked": true
+        },
+        {
+            "name": "MT [OLD] Yahayuk V0.1",
+            "url": "https://rullzsyhub.site/json/mount_yahayuk_old.json",
+            "locked": false
+        },
+        {
+            "name": "MT Adelza",
+            "url": "https://rullzsyhub.site/json/mount_adelza.json",
+            "locked": false
+        },
+        {
+            "name": "MT Aetheria (C2)",
+            "url": "https://rullzsyhub.site/json/mount_aetheria_c2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Aetheria (CVIP)",
+            "url": "https://rullzsyhub.site/json/mount_aetheria_cvip.json",
+            "locked": false
+        },
+        {
+            "name": "MT Age",
+            "url": "https://rullzsyhub.site/json/mount_age.json",
+            "locked": false
+        },
+        {
+            "name": "MT Agora",
+            "url": "https://rullzsyhub.site/json/mount_agora.json",
+            "locked": true
+        },
+        {
+            "name": "MT Ajani",
+            "url": "https://rullzsyhub.site/json/mount_ajani.json",
+            "locked": false
+        },
+        {
+            "name": "MT Apexia V2",
+            "url": "https://rullzsyhub.site/json/mount_apexia_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Arunika",
+            "url": "https://rullzsyhub.site/json/mount_arunika.json",
+            "locked": false
+        },
+        {
+            "name": "MT Atviel V2",
+            "url": "https://rullzsyhub.site/json/mount_atviel_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Auryn 2.0",
+            "url": "https://rullzsyhub.site/json/mount_auryn_2.0.json",
+            "locked": false
+        },
+        {
+            "name": "MT Axis V2",
+            "url": "https://rullzsyhub.site/json/mount_axis_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Ayaka",
+            "url": "https://rullzsyhub.site/json/mount_ayaka.json",
+            "locked": false
+        },
+        {
+            "name": "Mt Ayriene",
+            "url": "https://rullzsyhub.site/json/Mount_Ayriene.json",
+            "locked": false
+        },
+        {
+            "name": "MT Bali",
+            "url": "https://rullzsyhub.site/json/mount_bali.json",
+            "locked": false
+        },
+        {
+            "name": "MT Bjirlah (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_bjirlah_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Bjirlah (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_bjirlah_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Borisov",
+            "url": "https://rullzsyhub.site/json/Borisov.json",
+            "locked": false
+        },
+        {
+            "name": "MT Botol 4",
+            "url": "https://rullzsyhub.site/json/mount_botol_4.json",
+            "locked": false
+        },
+        {
+            "name": "MT Celestia",
+            "url": "https://rullzsyhub.site/json/mount_celestia.json",
+            "locked": false
+        },
+        {
+            "name": "MT Celor",
+            "url": "https://rullzsyhub.site/json/mount_celor.json",
+            "locked": false
+        },
+        {
+            "name": "MT Cinta",
+            "url": "https://rullzsyhub.site/json/mount_cinta.json",
+            "locked": false
+        },
+        {
+            "name": "MT CK",
+            "url": "https://rullzsyhub.site/json/mount_ck.json",
+            "locked": false
+        },
+        {
+            "name": "MT Daun (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_daun_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Daun (Pro)",
+            "url": "https://rullzsyhub.site/json/mount_daun_pro.json",
+            "locked": false
+        },
+        {
+            "name": "MT Elystra",
+            "url": "https://rullzsyhub.site/json/mount_elystra.json",
+            "locked": false
+        },
+        {
+            "name": "MT Excellent",
+            "url": "https://rullzsyhub.site/json/mount_excellent.json",
+            "locked": false
+        },
+        {
+            "name": "MT Freestyle",
+            "url": "https://rullzsyhub.site/json/mount_freestyle.json",
+            "locked": false
+        },
+        {
+            "name": "MT Funny",
+            "url": "https://rullzsyhub.site/json/mount_funny.json",
+            "locked": false
+        },
+        {
+            "name": "MT Gabut",
+            "url": "https://rullzsyhub.site/json/mount_gabut.json",
+            "locked": false
+        },
+        {
+            "name": "MT Gebok V2",
+            "url": "https://rullzsyhub.site/json/mount_gebok_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Gemi New Obstacle",
+            "url": "https://rullzsyhub.site/json/mount_gemi_new_obstacle.json",
+            "locked": false
+        },
+        {
+            "name": "MT H2C (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_h2c_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT H2C (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_h2c_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Helvi",
+            "url": "https://rullzsyhub.site/json/mount_helvi.json",
+            "locked": false
+        },
+        {
+            "name": "MT Humea",
+            "url": "https://rullzsyhub.site/json/mount_humea.json",
+            "locked": false
+        },
+        {
+            "name": "MT Island",
+            "url": "https://rullzsyhub.site/json/mount_island.json",
+            "locked": false
+        },
+        {
+            "name": "MT Izin",
+            "url": "https://rullzsyhub.site/json/mount_izin.json",
+            "locked": false
+        },
+        {
+            "name": "MT Kenangan",
+            "url": "https://rullzsyhub.site/json/mount_kenangan.json",
+            "locked": false
+        },
+        {
+            "name": "MT Keyboard",
+            "url": "https://rullzsyhub.site/json/mount_keyboard.json",
+            "locked": false
+        },
+        {
+            "name": "MT Kings Obstacle",
+            "url": "https://rullzsyhub.site/json/mount_kings_obstacle.json",
+            "locked": false
+        },
+        {
+            "name": "MT Kita",
+            "url": "https://rullzsyhub.site/json/mount_kita.json",
+            "locked": true
+        },
+        {
+            "name": "MT Kokas V2.0",
+            "url": "https://rullzsyhub.site/json/mount_kokas.json",
+            "locked": false
+        },
+        {
+            "name": "MT Komik",
+            "url": "https://rullzsyhub.site/json/mount_komik.json",
+            "locked": false
+        },
+        {
+            "name": "MT Koplo",
+            "url": "https://rullzsyhub.site/json/MT_Koplo.json",
+            "locked": false
+        },
+        {
+            "name": "MT Leveling",
+            "url": "https://rullzsyhub.site/json/mount_leveling.json",
+            "locked": false
+        },
+        {
+            "name": "MT Lima Satu",
+            "url": "https://rullzsyhub.site/json/mount_lima_satu.json",
+            "locked": false
+        },
+        {
+            "name": "MT Lonely",
+            "url": "https://rullzsyhub.site/json/mount_lonely.json",
+            "locked": false
+        },
+        {
+            "name": "MT Luna",
+            "url": "https://rullzsyhub.site/json/mount_luna.json",
+            "locked": false
+        },
+        {
+            "name": "MT Malaikat",
+            "url": "https://rullzsyhub.site/json/mount_malaikat.json",
+            "locked": false
+        },
+        {
+            "name": "MT Malthera V2",
+            "url": "https://rullzsyhub.site/json/mount_malthera_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Mantab",
+            "url": "https://rullzsyhub.site/json/Mount_mantab.json",
+            "locked": false
+        },
+        {
+            "name": "MT Memo",
+            "url": "https://rullzsyhub.site/json/mount_memo.json",
+            "locked": false
+        },
+        {
+            "name": "MT Moonlight V2",
+            "url": "https://rullzsyhub.site/json/mount_moonlight_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Morohmoy",
+            "url": "https://rullzsyhub.site/json/mount_morohmoy.json",
+            "locked": false
+        },
+        {
+            "name": "MT Mukjijat Obstacle",
+            "url": "https://rullzsyhub.site/json/mount_mukjijat_obstacle.json",
+            "locked": false
+        },
+        {
+            "name": "MT Nese",
+            "url": "https://rullzsyhub.site/json/mount_nese.json",
+            "locked": false
+        },
+        {
+            "name": "MT Nevada",
+            "url": "https://rullzsyhub.site/json/mount_nevada.json",
+            "locked": false
+        },
+        {
+            "name": "MT Ngelunjak",
+            "url": "https://rullzsyhub.site/json/mount_ngelunjak.json",
+            "locked": false
+        },
+        {
+            "name": "MT Nightfall",
+            "url": "https://rullzsyhub.site/json/mount_nightfall.json",
+            "locked": false
+        },
+        {
+            "name": "MT Noxera",
+            "url": "https://rullzsyhub.site/json/mount_noxera.json",
+            "locked": false
+        },
+        {
+            "name": "MT Ojeg",
+            "url": "https://rullzsyhub.site/json/mount_ojeg.json",
+            "locked": false
+        },
+        {
+            "name": "MT Outline",
+            "url": "https://rullzsyhub.site/json/mount_outline.json",
+            "locked": false
+        },
+        {
+            "name": "Mt PadahalGampang V2",
+            "url": "https://rullzsyhub.site/json/MT Padahal Gampang V2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Pagi",
+            "url": "https://rullzsyhub.site/json/mount_pagi.json",
+            "locked": false
+        },
+        {
+            "name": "MT Pasundanan Obstacle",
+            "url": "https://rullzsyhub.site/json/mount_pasundanan_obstacle.json",
+            "locked": false
+        },
+        {
+            "name": "MT Pulang Terapung",
+            "url": "https://rullzsyhub.site/json/mount_pulang_terapung.json",
+            "locked": false
+        },
+        {
+            "name": "MT Rayoma",
+            "url": "https://rullzsyhub.site/json/mount_rayoma.json",
+            "locked": false
+        },
+        {
+            "name": "MT Runia V2",
+            "url": "https://rullzsyhub.site/json/mount_runia_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Sanjoyo",
+            "url": "https://rullzsyhub.site/json/mount_sanjoyo.json",
+            "locked": false
+        },
+        {
+            "name": "MT Serrat (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_serrat_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Serrat (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_serrat_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Seventh Heaven",
+            "url": "https://rullzsyhub.site/json/mount_seventh_heaven.json",
+            "locked": false
+        },
+        {
+            "name": "MT Shadow",
+            "url": "https://rullzsyhub.site/json/mount_shadow.json",
+            "locked": false
+        },
+        {
+            "name": "MT Sibuatan",
+            "url": "https://rullzsyhub.site/json/mount_sibuatan.json",
+            "locked": false
+        },
+        {
+            "name": "Mt Softspoken",
+            "url": "https://rullzsyhub.site/json/MT Softspoken.json",
+            "locked": false
+        },
+        {
+            "name": "MT Space X",
+            "url": "https://rullzsyhub.site/json/mount_space_x.json",
+            "locked": false
+        },
+        {
+            "name": "MT Ton",
+            "url": "https://rullzsyhub.site/json/mount_ton.json",
+            "locked": false
+        },
+        {
+            "name": "MT Unyu",
+            "url": "https://rullzsyhub.site/json/mount_unyu.json",
+            "locked": false
+        },
+        {
+            "name": "MT Vegas",
+            "url": "https://rullzsyhub.site/json/mount_vegas.json",
+            "locked": false
+        },
+        {
+            "name": "MT Velora",
+            "url": "https://rullzsyhub.site/json/mount_velora.json",
+            "locked": false
+        },
+        {
+            "name": "MT Vexyria (Extreme)",
+            "url": "https://rullzsyhub.site/json/mount_vexyria_extreme.json",
+            "locked": false
+        },
+        {
+            "name": "MT Vexyria (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_vexyria_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Vexyria (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_vexyria_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Vexyria V2",
+            "url": "https://rullzsyhub.site/json/mount_vexyria_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Viox",
+            "url": "https://rullzsyhub.site/json/mount_viox.json",
+            "locked": false
+        },
+        {
+            "name": "MT Wasd",
+            "url": "https://rullzsyhub.site/json/mount_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Wek V1.2",
+            "url": "https://rullzsyhub.site/json/mount_wek_v1.2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yagesya (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_yagesya_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yagesya (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_yagesya_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yahayok",
+            "url": "https://rullzsyhub.site/json/mount_yahayok.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yahayuk Pink (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_yahayuk_pink_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yahayuk Pink (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_yahayuk_pink_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yahayuk V3 (Normal Cvip)",
+            "url": "https://rullzsyhub.site/json/mount_yahayuk_v3_normal_cvip.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yahayuk V3 (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_yahayuk_v3_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yahayuk V3 (Wasd Cvip)",
+            "url": "https://rullzsyhub.site/json/mount_yahayuk_v3_wasd_cvip.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yahayuk V3 (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_yahayuk_v3_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yayakin V2 (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_yayakin_v2_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yayakin V2 (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_yayakin_v2_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yntkts (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_yntkts_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yntkts (Wasd)",
+            "url": "https://rullzsyhub.site/json/mount_yntkts_wasd.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yugen",
+            "url": "https://rullzsyhub.site/json/mount_yugen.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yuk Party V2",
+            "url": "https://rullzsyhub.site/json/mount_yuk_party_v2.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yume (Normal)",
+            "url": "https://rullzsyhub.site/json/mount_yume_normal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yume (Sline)",
+            "url": "https://rullzsyhub.site/json/mount_yume_sline.json",
+            "locked": false
+        },
+        {
+            "name": "Ndo0275_001",
+            "url": "https://rullzsyhub.site/json/ndo0275_mount_novaria_obstacle.json",
+            "locked": false
+        },
+        {
+            "name": "Odaygg_001",
+            "url": "https://rullzsyhub.site/json/odaygg_19_mount_seventh_heaven.json",
+            "locked": true
+        },
+        {
+            "name": "Vcheo3678_001",
+            "url": "https://rullzsyhub.site/json/vcheo3678_mount_skyview.json",
+            "locked": true
+        },
+        {
+            "name": "Vcheo3678_002",
+            "url": "https://rullzsyhub.site/json/vcheo3678_mount_xyra.json",
+            "locked": true
+        },
+        {
+            "name": "Yos2638_001",
+            "url": "https://rullzsyhub.site/json/yos2638_mount_elystra_cvip.json",
+            "locked": true
+        }
+    ]
+}
