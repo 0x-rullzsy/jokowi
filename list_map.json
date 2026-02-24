@@ -171,11 +171,6 @@
             "locked": false
         },
         {
-            "name": "MT Helvi",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_helvi.json",
-            "locked": false
-        },
-        {
             "name": "MT Humea",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_humea.json",
             "locked": false
@@ -538,6 +533,11 @@
         {
             "name": "MT Fishit",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_ethereal.json",
+            "locked": false
+        },
+        {
+            "name": "MT Hellvi",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_hellvi.json",
             "locked": false
         }
     ]
