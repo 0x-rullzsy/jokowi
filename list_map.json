@@ -208,7 +208,7 @@
         {
             "name": "MT Kokas V2.0",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_kokas.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Komik",
@@ -523,7 +523,7 @@
         {
             "name": "MT Koja",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_koja.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Victoria",
