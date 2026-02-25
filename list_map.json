@@ -203,7 +203,7 @@
         {
             "name": "MT Kita",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_kita.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Kokas V2.0",
