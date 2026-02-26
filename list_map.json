@@ -298,7 +298,7 @@
         {
             "name": "MT Noxera",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_noxera.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Ojeg",
