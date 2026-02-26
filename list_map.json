@@ -263,7 +263,7 @@
         {
             "name": "MT Moonlight V2",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_moonlight_v2.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Morohmoy",
