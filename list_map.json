@@ -208,7 +208,7 @@
         {
             "name": "MT Kokas V2.0",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_kokas.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Komik",
