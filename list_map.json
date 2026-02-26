@@ -544,6 +544,11 @@
             "name": "MT User 001",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_maltheria_v2.json",
             "locked": false
+        },
+        {
+            "name": "MT Sakti",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_sakti.json",
+            "locked": false
         }
     ]
 }
