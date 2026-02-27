@@ -493,12 +493,12 @@
         {
             "name": "MT Yntkts (Normal)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yntkts_normal.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Yntkts (Wasd)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yntkts_wasd.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Yugen",
