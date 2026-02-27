@@ -378,7 +378,7 @@
         {
             "name": "MT Space X",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_space_x.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Ton",
