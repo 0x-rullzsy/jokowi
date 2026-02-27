@@ -549,6 +549,11 @@
             "name": "MT Sakti",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_sakti.json",
             "locked": false
+        },
+        {
+            "name": "MT Sawit",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_sawit.json",
+            "locked": false
         }
     ]
 }
