@@ -476,16 +476,6 @@
             "locked": false
         },
         {
-            "name": "MT Yayakin V2 (Normal)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yayakin_v2_normal.json",
-            "locked": false
-        },
-        {
-            "name": "MT Yayakin V2 (Wasd)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yayakin_v2_wasd.json",
-            "locked": false
-        },
-        {
             "name": "MT Yntkts (Normal)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yntkts_normal.json",
             "locked": false
@@ -548,6 +538,11 @@
         {
             "name": "MT Sawit",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_sawit.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yayakin V1",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yayakin_v1.json",
             "locked": false
         }
     ]
