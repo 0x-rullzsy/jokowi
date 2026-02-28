@@ -544,6 +544,11 @@
             "name": "MT Aetheria (Cvip)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_aetheria_cvip.json",
             "locked": false
+        },
+        {
+            "name": "MT Vespheria",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_vespheria.json",
+            "locked": false
         }
     ]
 }
