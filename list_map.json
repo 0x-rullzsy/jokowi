@@ -11,16 +11,6 @@
             "locked": false
         },
         {
-            "name": "MT Aetheria (C2)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_aetheria_v2_wasd.json",
-            "locked": false
-        },
-        {
-            "name": "MT Aetheria (CVIP)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_aetheria_v2_cvip.json",
-            "locked": false
-        },
-        {
             "name": "MT Age",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_age.json",
             "locked": false
@@ -543,6 +533,11 @@
         {
             "name": "MT Yayakin V1",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yayakin_v1.json",
+            "locked": false
+        },
+        {
+            "name": "MT Aetheria (Normal)",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_aetheria_normal.json",
             "locked": false
         }
     ]
