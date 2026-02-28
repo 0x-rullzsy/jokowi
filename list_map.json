@@ -539,6 +539,11 @@
             "name": "MT Aetheria (Normal)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_aetheria_normal.json",
             "locked": false
+        },
+        {
+            "name": "MT Aetheria (Cvip)",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_aetheria_cvip.json",
+            "locked": false
         }
     ]
 }
