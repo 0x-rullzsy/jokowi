@@ -471,11 +471,6 @@
             "locked": false
         },
         {
-            "name": "MT Yahayuk V3 (Wasd Cvip)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_wasd_cvip.json",
-            "locked": false
-        },
-        {
             "name": "MT Yahayuk V3 (Wasd)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_wasd.json",
             "locked": false
