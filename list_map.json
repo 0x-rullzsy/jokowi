@@ -529,6 +529,11 @@
             "name": "MT Yahayuk V3 (Cvip)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_cvip.json",
             "locked": false
+        },
+        {
+            "name": "MT Goyaa",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_goyaa.json",
+            "locked": false
         }
     ]
 }
