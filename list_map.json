@@ -141,11 +141,6 @@
             "locked": false
         },
         {
-            "name": "MT H2C (Normal)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_h2c_normal.json",
-            "locked": false
-        },
-        {
             "name": "MT H2C (Wasd)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_h2c_wasd.json",
             "locked": false
@@ -533,6 +528,11 @@
         {
             "name": "MT Goyaa",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_goyaa.json",
+            "locked": false
+        },
+        {
+            "name": "MT H2C (Normal)",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_h2c_normal.json",
             "locked": false
         }
     ]
