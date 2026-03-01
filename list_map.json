@@ -1,11 +1,6 @@
 {
     "maps": [
         {
-            "name": "MT [OLD] Yahayuk V0.1",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_old.json",
-            "locked": false
-        },
-        {
             "name": "MT Adelza",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_adelza.json",
             "locked": false
@@ -433,21 +428,6 @@
         {
             "name": "MT Yagesya (Wasd)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yagesya_wasd.json",
-            "locked": false
-        },
-        {
-            "name": "MT Yahayok",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayok.json",
-            "locked": false
-        },
-        {
-            "name": "MT Yahayuk Pink (Normal)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_pink_normal.json",
-            "locked": false
-        },
-        {
-            "name": "MT Yahayuk Pink (Wasd)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_pink_wasd.json",
             "locked": false
         },
         {
