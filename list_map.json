@@ -71,11 +71,6 @@
             "locked": false
         },
         {
-            "name": "MT Borisov",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/Borisov.json",
-            "locked": false
-        },
-        {
             "name": "MT Botol 4",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_botol_4.json",
             "locked": false
