@@ -524,6 +524,11 @@
             "name": "MT Yahayuk V3 (Normal)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_normal.json",
             "locked": false
+        },
+        {
+            "name": "MT Yahayuk V3 (Sline)",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_sline.json",
+            "locked": false
         }
     ]
 }
