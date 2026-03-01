@@ -451,21 +451,6 @@
             "locked": false
         },
         {
-            "name": "MT Yahayuk V3 (Normal Cvip)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_normal_cvip.json",
-            "locked": false
-        },
-        {
-            "name": "MT Yahayuk V3 (Normal)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_normal.json",
-            "locked": false
-        },
-        {
-            "name": "MT Yahayuk V3 (Wasd)",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_wasd.json",
-            "locked": false
-        },
-        {
             "name": "MT Yntkts (Normal)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yntkts_normal.json",
             "locked": false
@@ -553,6 +538,11 @@
         {
             "name": "MT Laufas Obstacle",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_luafas_obstacle.json",
+            "locked": false
+        },
+        {
+            "name": "MT Yahayuk V3 (Normal)",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_yahayuk_v3_normal.json",
             "locked": false
         }
     ]
