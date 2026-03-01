@@ -248,7 +248,7 @@
         {
             "name": "MT Morohmoy",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_morohmoy.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Mukjijat Obstacle",
