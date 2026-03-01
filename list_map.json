@@ -549,6 +549,11 @@
             "name": "MT Vespheria",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_vespheria.json",
             "locked": false
+        },
+        {
+            "name": "MT Laufas Obstacle",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_laufas_obstacle.json",
+            "locked": false
         }
     ]
 }
