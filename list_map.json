@@ -18,7 +18,7 @@
         {
             "name": "MT Agora",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_agora.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Ajani",
@@ -258,7 +258,7 @@
         {
             "name": "MT Morohmoy",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_morohmoy.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Mukjijat Obstacle",
