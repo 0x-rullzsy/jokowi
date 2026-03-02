@@ -534,6 +534,11 @@
             "name": "MT H2C (Normal)",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_h2c_normal.json",
             "locked": false
+        },
+        {
+            "name": "MT Doragon",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_doragon.json",
+            "locked": false
         }
     ]
 }
