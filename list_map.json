@@ -539,6 +539,11 @@
             "name": "MT Doragon",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_doragon.json",
             "locked": false
+        },
+        {
+            "name": "MT Rakyat",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_rakyat.json",
+            "locked": false
         }
     ]
 }
