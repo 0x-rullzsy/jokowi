@@ -544,6 +544,11 @@
             "name": "MT Rakyat",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_rakyat.json",
             "locked": false
+        },
+        {
+            "name": "MT Parker",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_parker.json",
+            "locked": false
         }
     ]
 }
