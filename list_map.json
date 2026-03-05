@@ -554,6 +554,11 @@
             "name": "MT Age V2",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_age_v2.json",
             "locked": false
+        },
+        {
+            "name": "PPK",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/ppk.json",
+            "locked": false
         }
     ]
 }
