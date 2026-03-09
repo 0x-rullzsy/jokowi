@@ -574,6 +574,11 @@
             "name": "MT Celsus",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_celsus.json",
             "locked": false
+        },
+        {
+            "name": "MT Gates OF Hell",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_gates_of_hell.json",
+            "locked": false
         }
     ]
 }
