@@ -569,6 +569,11 @@
             "name": "MT Parker",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_parker.json",
             "locked": false
+        },
+        {
+            "name": "MT Celsus",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_celsus.json",
+            "locked": false
         }
     ]
 }
