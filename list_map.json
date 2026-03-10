@@ -579,11 +579,6 @@
             "name": "MT Gates OF Hell",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_gates_of_hell.json",
             "locked": false
-        },
-        {
-            "name": "testt",
-            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/vlexi.json",
-            "locked": false
         }
     ]
 }
