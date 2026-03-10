@@ -594,6 +594,11 @@
             "name": "MT Coco",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_mount_coco.json",
             "locked": false
+        },
+        {
+            "name": "MT Familia Obstacle",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_familia_obstacle.json",
+            "locked": false
         }
     ]
 }
