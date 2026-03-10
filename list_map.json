@@ -579,6 +579,11 @@
             "name": "MT Gates OF Hell",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_gates_of_hell.json",
             "locked": false
+        },
+        {
+            "name": "MT Rise",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_mount_rise.json",
+            "locked": false
         }
     ]
 }
