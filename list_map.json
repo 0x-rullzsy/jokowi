@@ -589,6 +589,11 @@
             "name": "MT Momoyo",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_mount_momoyo.json",
             "locked": false
+        },
+        {
+            "name": "MT Coco",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_mount_coco.json",
+            "locked": false
         }
     ]
 }
