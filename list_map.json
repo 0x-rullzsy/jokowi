@@ -599,6 +599,11 @@
             "name": "MT Familia Obstacle",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_familia_obstacle.json",
             "locked": false
+        },
+        {
+            "name": "MT Azurael Obstacle",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_azurel_obstacle.json",
+            "locked": false
         }
     ]
 }
