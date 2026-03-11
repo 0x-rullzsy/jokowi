@@ -604,6 +604,11 @@
             "name": "MT Azurael Obstacle",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_azurel_obstacle.json",
             "locked": false
+        },
+        {
+            "name": "MT Wistheria",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_mount_wistheria.json",
+            "locked": false
         }
     ]
 }
