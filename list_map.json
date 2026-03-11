@@ -609,6 +609,11 @@
             "name": "MT Wistheria",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_mount_wistheria.json",
             "locked": false
+        },
+        {
+            "name": "MT Hype V1",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/json_mount_hypev1.json",
+            "locked": false
         }
     ]
 }
