@@ -619,6 +619,11 @@
             "name": "MT Plengerion",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/mount_plengerion.json",
             "locked": false
+        },
+        {
+            "name": "MT Yayakin Obstacle",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/yayakin_obstacle.json",
+            "locked": false
         }
     ]
 }
