@@ -629,6 +629,11 @@
             "name": "MT Ayaka Habeg",
             "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/ayaka_habeg.json",
             "locked": false
+        },
+        {
+            "name": "MT Age v2 Habeg",
+            "url": "https://raw.githubusercontent.com/0x-rullzsy/jokowi/refs/heads/main/age_habeg.json",
+            "locked": false
         }
     ]
 }
